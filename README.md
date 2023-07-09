@@ -1,6 +1,6 @@
 # Project Name: Story Generator
 
-##Motivation
+## Motivation
 As a parent, I want to provide my kid with a fun and engaging activity during the holidays, So that they can stay motivated to draw and be occupied.
 
 This project is a Python application that allows users to upload a drawing, which is then processed to generate a story based on the image. The story is then converted into an audio file, and a new image is generated using AI. The application utilizes:
@@ -21,12 +21,15 @@ This project is a Python application that allows users to upload a drawing, whic
 ## Configuration
 Before running the application, make sure to set up the necessary configurations:
 
-1. setup following environment variables 
+1. Setup following environment variables 
 
-`export VISION_ENDPOINT='YOUR_AZURE_VISION_API_END_PONIT with https'`
-`export VISION_ENDPOINT_2='YOUR_AZURE_VISION_API_END_PONIT without https and any /'`
-`export VISION_KEY='"YOUR_AZURE_VISION_API_KEY"'`
-`export OPEN_API_KEY='YOUR OPEN API KEY'`
+- `export VISION_ENDPOINT='YOUR_AZURE_VISION_API_END_PONIT with https'`
+
+- `export VISION_ENDPOINT_2='YOUR_AZURE_VISION_API_END_PONIT without https and any /'`
+
+- `export VISION_KEY='"YOUR_AZURE_VISION_API_KEY"'`
+
+- `export OPEN_API_KEY='YOUR OPEN API KEY'`
 
 ## Usage
 
