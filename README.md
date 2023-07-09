@@ -4,11 +4,12 @@
 As a parent, I want to provide my kid with a fun and engaging activity during the holidays, So that they can stay motivated to draw and be occupied.
 
 This project is a Python application that allows users to upload a drawing, which is then processed to generate a story based on the image. The story is then converted into an audio file, and a new image is generated using AI. The application utilizes:
-    1. Streamlit for creating the web interface.
-    2. Azure Vision API for image captioning.
-    3. gTTs for text to audio.
-    4. OpenAI for generating the story.
-    5. DeepAI for generating a new image.
+
+1. Streamlit for creating the web interface.
+2. Azure Vision API for image captioning.
+3. gTTs for text to audio.
+4. OpenAI for generating the story.
+5. DeepAI for generating a new image.
 
 ## Installation
 
