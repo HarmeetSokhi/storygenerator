@@ -47,7 +47,7 @@ This project utilizes the following technologies:
 - [Streamlit](https://www.streamlit.io/) - For creating the web application.
 - [Azure Vision API](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/how-to/call-analyze-image-40?tabs=rest#select-the-image-to-analyze) - For image captioning.
 - [OpenAI](https://platform.openai.com/account/api-keys/) - For generating the story.
-- [DreamAI](https://dream-ai.io/) - For generating a new image.
+- [DreamAI](https://deepai.org/) - For generating a new image.
 
 ## Contact
 
