@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "drawyourstory"
+version = "0.1.0"
+description = ""
+authors = ["HarmeetSokhi <harmeet.sokhi.au@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+azure-cognitiveservices-vision-computervision = "^0.9.0"
+openai = "^0.27.8"
+gtts = "^2.3.2"
+interface = "^2.11.1"
+streamlit = "^1.24.0"
+pydub = "^0.25.1"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
